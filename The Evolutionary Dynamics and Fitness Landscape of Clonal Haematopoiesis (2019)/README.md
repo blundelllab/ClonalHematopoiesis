@@ -52,4 +52,4 @@ This repository contains the code and necessary files to accompany the manuscrip
 #### Supplementary Note 10 (parameter estimation for 10 commonly mutated CH genes):
 - Github folder: *Predicted prevalence of CH and double mutants*.
 #### Supplemenetary Note 12: (Estimating fitness effects of infrequently mutated sites)
-- Github folder: *Estimating fitness effects of infrequenrly mutated sites*.
+- Github folder: *Estimating fitness effects of infrequently mutated sites*.
