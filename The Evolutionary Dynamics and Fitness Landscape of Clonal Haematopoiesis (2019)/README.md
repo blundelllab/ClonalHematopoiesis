@@ -56,3 +56,6 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: *Predicted prevalence of CH and double mutants*.
 #### Supplemenetary Note 12: (Estimating fitness effects of infrequently mutated sites)
 - Github folder: *Estimating fitness effects of infrequently mutated sites*.
+
+## LICENSE
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
