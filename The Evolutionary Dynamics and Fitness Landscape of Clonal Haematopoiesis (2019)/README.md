@@ -4,7 +4,7 @@ This repository contains the code and necessary files to accompany the manuscrip
 If there are problems with the code (.ipynb) pages rendering, please try viewing them here: https://nbviewer.jupyter.org/github/blundelllab/ClonalHaematopoiesis/tree/master/The%20Evolutionary%20Dynamics%20and%20Fitness%20Landscape%20of%20Clonal%20Haematopoiesis%20%282019%29/
 <br>
 <br>
-## Navigation:
+## Navigation: 
 ### Code & data for generation of figures/ analyses in main text:
 #### Figure 1:
 - **Figure 1b (distribution of variants across DNMT3A)**:
