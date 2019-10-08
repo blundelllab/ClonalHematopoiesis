@@ -1,7 +1,7 @@
 This repository contains the code and necessary files to accompany the manuscript **"The Evolutionary Dynamics and Fitness Landscape of Clonal Hematopoiesis"**.  Code was written in Jupyter notebook using Python. 
 <br>
 <br>
-If there are problems with the code (.ipynb) pages rendering, please try viewing them here: https://nbviewer.jupyter.org/github/blundelllab/ClonalHaematopoiesis/tree/master/The%20Evolutionary%20Dynamics%20and%20Fitness%20Landscape%20of%20Clonal%20Haematopoiesis%20%282019%29/
+If there are problems with the code (.ipynb) pages rendering, please try viewing them here: https://nbviewer.jupyter.org/github/blundelllab/ClonalHematopoiesis/tree/master/The%20Evolutionary%20Dynamics%20and%20Fitness%20Landscape%20of%20Clonal%20Hematopoiesis%20%282019%29/
 <br>
 <br>
 ## Navigation: 
