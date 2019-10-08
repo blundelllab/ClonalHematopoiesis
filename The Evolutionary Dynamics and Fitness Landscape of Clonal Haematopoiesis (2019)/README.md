@@ -18,7 +18,7 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
   - Github folder: *Maximum likelihood estimations/ Fitness landscape of top 20 most commonly observed variants in CH*.
 - **Figure 2b (distribution of fitness effects in key CH driver genes)**:
   - Github folder: *Maximum likelihood estimations/ Fitness landscape of key CH driver genes (DNMT3A, TET2, ASXL1, TP53)*.
-#### Figure 3: predicted prevalence of CH as a function of age)**:
+#### Figure 3: predicted prevalence of CH as a function of age):
   - Github folder: *Predicted prevalence of CH and double mutations*.
 
 ### Code & data for generation of figures/ analyses in supplement:
