@@ -53,6 +53,8 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
 - Github folder: *Predicted prevalence of CH and double mutants*.
 #### Supplemenetary Note 12: (Estimating fitness effects of infrequently mutated sites)
 - Github folder: *Estimating fitness effects of infrequently mutated sites*.
+#### Supplemenetary Note 13: (Limitations of study size and sequencing limit)
+- Github folder: *Limitations of study size and sequencing limit*.
 
 ## LICENSE
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
