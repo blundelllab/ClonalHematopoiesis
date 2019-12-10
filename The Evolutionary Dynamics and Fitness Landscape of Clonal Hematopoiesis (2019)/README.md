@@ -22,13 +22,13 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
   - Github folder: *Predicted prevalence of CH and double mutations*.
 
 ### Code & data for generation of figures/ analyses in supplement:
-#### Supplementary Note 1 (data trimming):
+#### Supplementary Methods 1 (data trimming):
 - Github folder: *Trimming the data*.
-#### Supplementary Note 5 (study-specific mutation rates):
+#### Supplementary Methods 5 (study-specific mutation rates):
 - Github folder: *Mutation rate calculations*.
-#### Supplementary Note 6 (emergence of clones with multiple mutations):
+#### Supplementary Methods 6 (emergence of clones with multiple mutations):
 - Github folder: *Predicted prevalence of CH and double mutations*.
-#### Supplementary Note 7:
+#### Supplementary Methods 7 (maximum likelihood parameter estimation):
 - **Figure S9 (DNMT3A R882H)**:
   - Github folder: *Maximum likelihood estimations/ DNMT3A R882H, DNMT3A nonsynonymous, all synonymous*.
 - **Figure S10 (top 20 most commonly observed variants)**:
@@ -42,18 +42,18 @@ If there are problems with the code (.ipynb) pages rendering, please try viewing
     - Github folder: *Maximum likelihood estimations/ Fitness landscape of key CH driver genes (DNMT3A, TET2, ASXL1, TP53)*.
 - **Figure S13 (synoymous variants parameter estimation)**:
    - Github folder: *Maximum likelihood estimations/ DNMT3A R882H, DNMT3A nonsynonymous, all synonymous*.
-#### Supplementary Note 8:
+#### Supplementary Methods 8 (developmental mutations and neutral 'hitchhikers'):
 - **Figure S16 (hitchhiker variants parameter estimation)**:
   - Github folder: *Maximum likelihood estimations/ DNMT3A R882H, DNMT3A nonsynonymous, all synonymous*.
-#### Supplemetary Note 9 (odds ratio of AML stratified by variant fitness):
+#### Supplemetary Methods 9 (odds ratio of AML stratified by variant fitness):
 - Github folder: *Highly fit variants are enriched in pre-AML blood samples*.
-#### Supplementary Note 10 (age prevalence of R882H and R882C mutations):
+#### Supplementary Methods 10 (age prevalence of R882H and R882C mutations):
 - Github folder: *Age prevalence of DNMT3A R882H and R882C variants*.
-#### Supplementary Note 11 (parameter estimation for 10 commonly mutated CH genes):
+#### Supplementary Methods 11 (parameter estimation for 10 commonly mutated CH genes):
 - Github folder: *Predicted prevalence of CH and double mutants*.
-#### Supplemenetary Note 12: (Estimating fitness effects of infrequently mutated sites)
+#### Supplemenetary Methods 12: (Estimating fitness effects of infrequently mutated sites)
 - Github folder: *Estimating fitness effects of infrequently mutated sites*.
-#### Supplemenetary Note 13: (Limitations of study size and sequencing limit)
+#### Supplemenetary Methods 13: (Limitations of study size and sequencing limit)
 - Github folder: *Limitations of study size and sequencing limit*.
 
 ## LICENSE
